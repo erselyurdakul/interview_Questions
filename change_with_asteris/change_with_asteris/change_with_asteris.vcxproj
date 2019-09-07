@@ -23,6 +23,7 @@
     <ProjectGuid>{81E0623C-2747-425D-8860-7D4F999E20B9}</ProjectGuid>
     <RootNamespace>changewithasteris</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
+    <ProjectName>replace_with_asteris</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
